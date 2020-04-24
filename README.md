@@ -11,4 +11,4 @@
 | Abdel El-Adawy            | adawy@wessco-eg.org                  | ReactJS, NodeJS, CSS             | https://www.linkedin.com/in/abdelrahman-el-adawy/ | https://twitter.com/MrViometal      |
 | Kabiru Abdulhamid         | abdulhamidkabiru@gmail.com           | Django, GraphQL, React.js        | http://github.com/iamkabiru                       | http://twitter.com/iamkabiru        |
 | Yahaya Hyellamoda Yohanna | yahayahyohanna@gmail.com             | Nodejs, Laravel, MySQL, React.js | https://yhyportfolio.netlify.app                  | http://twitter.com/yasholma         |
-
+| Alejandro Akbal           | contact@akbal.dev                    | Nodejs, Vuejs, MySQL, Python     | https://akbal.dev                                 |                                     |
