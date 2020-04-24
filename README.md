@@ -13,3 +13,4 @@
 | Kabiru Abdulhamid         | abdulhamidkabiru@gmail.com           | Django, GraphQL, React.js        | http://github.com/iamkabiru                       | http://twitter.com/iamkabiru        |
 | Yahaya Hyellamoda Yohanna | yahayahyohanna@gmail.com             | Nodejs, Laravel, MySQL, React.js | https://yhyportfolio.netlify.app                  | http://twitter.com/yasholma         |
 | Alejandro Akbal           | contact@akbal.dev                    | Nodejs, Vuejs, MySQL, Python     | https://akbal.dev                                 |                                     |
+| Mourice Otieno Oduor      | otienomaurice364@gmail.com           | Python, Django, Node.js, React.js| https://twitter.com/Morys0
