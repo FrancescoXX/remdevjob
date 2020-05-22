@@ -4,6 +4,7 @@
 
 | Name                      | Email                                | Best skills                      | Link                                              | Twitter account                     |
 | ------------------------- | ------------------------------------ | -------------------------------- | ------------------------------------------------- | ----------------------------------- |
+| Agnel Vishal      | agnelvishal@gmail.com           | html, css, javascript, Node.js, public blockchain| https://agnelvishal.github.io/                       | https://twitter.com/agnelvishal          |
 | Christian Holman          | c.holman@zohomail.eu                 | React, Node, Python, Rust        | https://christianholman.me                        | https://twitter.com/0xholman        |
 | Shuang Song               | shuangsong00@outlook.com             | Python Tensorflow, JS React      | https://sysghost.me/studio                        | https://twitter.com/Shydevil_Song   |
 | Juan Navas                | navascruzf@gmail.com                 | React.js, Node.js                | https://juannavas.dev                             | https://twitter.com/JuanNavasJN     |
