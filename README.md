@@ -16,3 +16,4 @@
 | Alejandro Akbal           | contact@akbal.dev                    | Nodejs, Vuejs, MySQL, Python     | https://akbal.dev                                 |                                     |
 | Mourice Otieno Oduor      | otienomaurice364@gmail.com           | Python, Django, Node.js, React.js| https://twitter.com/Morys0                        | https://twitter.com/Morys0          |
 | Lewis Munyi      | [Email](mailto:lewismunyi97@gmail.com)           | Nodejs, Laravel, MySQL, Vue.js, Python| [lewis-munyi.web.app](https://lewis-munyi.web.app)                        | -          |
+| Filip Kunjadić      | filip.kunjadic.culibrk@gmail.com          | NGINX, PHP, Magento, Laravel, JS, HTML, CSS | https://filipkunjadic.com                        | https://twitter.com/filipkunjadic     |
