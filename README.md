@@ -26,3 +26,4 @@
 |Kimaru Thagana               | thagana44@gmail.com                    | Django Python Data analysis Tech guide writing business proccess refinement Postgres | https://github.com/KimaruThagna                         | https://kimaruthagna.github.io/     
 | Alex kamau                | njugunakamaau@gmail.com                | Javascript(ES6), React.js, Node.js, flask, python, psql, Mysql, Sass, React Native, Firebase,                    | https://kamaualex.github.io                        | https://twitter.com/kuntacodes |
 | Anath Kantonda      | anathkantonda@gmail.com           | Javascript, Node.js, Expressjs, React, MongoDB, Java, HTML, CSS| https://anathkantonda.github.io/portfolio                       | https://twitter.com/anathkantonda          |
+| Abdul-Jabbar Bozdar | ajbozdar@vivaldi.net | Nginx, C#, .Net, MS-SQL, Azure, PHP, Angular, MongoDB, Technical Writing | https://ajbozdar.com | https://twitter.com/ajbozdar
