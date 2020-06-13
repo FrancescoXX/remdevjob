@@ -20,3 +20,4 @@
 | Sil van Diepen      | me@silvandiepen.com          | Design Systems, Vue, React.js, Web Components, Sass | https://silvandiepen.com                        | https://twitter.com/silvandiepen     |
 | Ariel Mejia Dev     | arielmejiadev@gmail.com | PHP, Laravel, VueJS | https://arielmejiadev.com | https://twitter.com/ArielMejiaDev |
 |Paul Ogolla | paulotieno2@gmail.com | Ruby, RoR, React.js, HTML, CSS , Sass, Js, Python | https://profile.codersrank.io/user/paulzay/ | https://twitter.com/_paulzay_ |
+|Nisar Hassan Naqvi | syednisarhassan12@gmail.com | HTML, CSS, JavaScript, React,Gatsby | https://nisar.dev/ | https://twitter.com/nisarhassan12 |
