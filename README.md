@@ -30,3 +30,5 @@
 | Oluwafemi Anjorin | femianjorin@rocketmail.com | HTML, CSS, JavaScript, React, Node, Express, GraphQL | https://femianjorin.com/ | https://twitter.com/femianjorin11 |
 | Fortune Ikechi | ikechifortune@gmail.com | HTML, CSS, JavaScript, React, Node, Express, React Native | https://fortune-ikechi.netlify.app/ | https://twitter.com/codedog_ |
 | Akintunde Victor  | akintoluvic@gmail.com | HTML, CSS, JavaScript, React, Node, Express, MongoDB, PostgeSQL, UI Design | https://akintoluvic.com/ | https://twitter.com/akintoluvic |
+| Oluwaseun Adeyinka | seun.adeyinka@gmail.com | JavaScript, C#, .NET MVC, .NET Core, Python, Django, Flask, NoSQL DBs | https://www.adeyinkaseun.com | https://twitter.com/Mr_Codemasta |
+
