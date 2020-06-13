@@ -24,3 +24,4 @@
 | Ruslan D                  | ruslandzu@gmail.com                    | Javascript(ES6), React.js, Node.js, Express.js, PWA, Apollo GraphQL, Styled-components, Sass, BEM, A11y, Webpack | https://github.com/drumm2k                         | https://twitter.com/drumm2k         |
 |Arigbede Abiodun | arigbedeabiodun@gmail.com | HTML, CSS, Sass, JavaScript, VueJs | https://abbyjoe.github.io/portfolio/ | https://twitter.com/Abby_joeRGX |
 |Kimaru Thagana               | thagana44@gmail.com                    | Django Python Data analysis Tech guide writing business proccess refinement Postgres | https://github.com/KimaruThagna                         | https://kimaruthagna.github.io/        |
+| Anath Kantonda      | anathkantonda@gmail.com           | Javascript, Node.js, Expressjs, React, MongoDB, Java, HTML, CSS| https://anathkantonda.github.io/portfolio                       | https://twitter.com/anathkantonda          |
