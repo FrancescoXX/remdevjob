@@ -19,4 +19,4 @@
 | Filip Kunjadić      | filip.kunjadic.culibrk@gmail.com          | NGINX, PHP, Magento, Laravel, JS, HTML, CSS | https://filipkunjadic.com                        | https://twitter.com/filipkunjadic     |
 | Sil van Diepen      | me@silvandiepen.com          | Design Systems, Vue, React.js, Web Components, Sass | https://silvandiepen.com                        | https://twitter.com/silvandiepen     |
 | Ariel Mejia Dev     | arielmejiadev@gmail.com | PHP, Laravel, VueJS | https://arielmejiadev.com | https://twitter.com/ArielMejiaDev |
-
+|Paul Ogolla | paulotieno2@gmail.com | Ruby, RoR, React.js, HTML, CSS , Sass, Js, Python | https://profile.codersrank.io/user/paulzay/ | https://twitter.com/_paulzay_ |
