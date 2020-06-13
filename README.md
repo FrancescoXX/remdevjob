@@ -22,3 +22,4 @@
 |Paul Ogolla | paulotieno2@gmail.com | Ruby, RoR, React.js, HTML, CSS , Sass, Js, Python | https://profile.codersrank.io/user/paulzay/ | https://twitter.com/_paulzay_ |
 |Nisar Hassan Naqvi | syednisarhassan12@gmail.com | HTML, CSS, JavaScript, React,Gatsby | https://nisar.dev/ | https://twitter.com/nisarhassan12 |
 | Ruslan D                  | ruslandzu@gmail.com                    | Javascript(ES6), React.js, Node.js, Express.js, PWA, Apollo GraphQL, Styled-components, Sass, BEM, A11y, Webpack | https://github.com/drumm2k                         | https://twitter.com/drumm2k         |
+|Kimaru Thagana               | thagana44@gmail.com                    | Django Python Data analysis Tech guide writing business proccess refinement Postgres | https://github.com/KimaruThagna                         | https://kimaruthagna.github.io/        |
