@@ -35,3 +35,4 @@
 | Agbamoro Victoria | agbamorovictoria@gmail.com | HTML, CSS, JavaScript, React, Git | https://github.com/Victoriaagbamoro/ | https://twitter.com/vickyagbamoro |
 | Tijani Abdulazeez Titilope | tijaniazeez92@gmail.com | php, html, css, javascript, MySQL | https://github.com/tijazz | https://twitter.com/tijazz94 |
 | Chihurumnanya Nwanevu | nwanevunkem.chihurumnanya@gmail.com | HTML, CSS, JavaScript, PHP, Git, Graphics Design | https://github.com/cnndev/ | https://twitter.com/cnndev |
+| Jordy Bastien RUGUMBIRA | rugumbirajordybastien@gmail.com | Javascript, React.js, Node.js, React Native, HTML, CSS, Saas, Postgres, MongoDB, Slack API | https://www.linkedin.com/in/rugumbira-jordy-bastien-726321b2 https://github.com/jordybastien | https://twitter.com/jordy_bastien |
