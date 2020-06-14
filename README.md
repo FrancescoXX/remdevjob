@@ -33,4 +33,4 @@
 | Oluwaseun Adeyinka | seun.adeyinka@gmail.com | JavaScript, C#, .NET MVC, .NET Core, Python, Django, Flask, NoSQL DBs | https://www.adeyinkaseun.com | https://twitter.com/Mr_Codemasta |
 | Mihai Todor | todormihai@gmail.com | Go, C++, Python, Bash, Distributed Systems, Kubernetes, AWS, Docker, Terraform, Ansible, Linux | https://www.linkedin.com/in/mtodor/ | https://twitter.com/MihaiTodor |
 | Agbamoro Victoria | agbamorovictoria@gmail.com | HTML, CSS, JavaScript, React, Git | https://github.com/Victoriaagbamoro/ | https://twitter.com/vickyagbamoro |
-
+| Chihurumnanya Nwanevu | nwanevunkem.chihurumnanya@gmail.com | HTML, CSS, JavaScript, PHP, Git, Graphics Design | https://github.com/cnndev/ | https://twitter.com/cnndev |
