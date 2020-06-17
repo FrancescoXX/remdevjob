@@ -38,3 +38,4 @@
 | Jordy Bastien RUGUMBIRA | rugumbirajordybastien@gmail.com | Javascript, React.js, Node.js, React Native, HTML, CSS, Saas, Postgres, MongoDB, Slack API | https://www.linkedin.com/in/rugumbira-jordy-bastien-726321b2 https://github.com/jordybastien | https://twitter.com/jordy_bastien |
 | Cyril Uket | cyriluket12@gmail.com | HTML, CSS, JavaScript, Flutter, Dart, Git, Docker | https://github.com/cyuket/ |
 | Dalhatu Njidda | dalsdnjidda@gmail.com | PHP, Laravel, Javascript, Vue.js, SQL, HTML, CSS | https://dalhatu.com | https://twitter.com/dals_njidda |
+| Onyetube Collins Kosisochukwu  | kosicollins169@gmail.com  | HTML, CSS, JavaScript, PHP, NodeJS, JAVA, Python, C#, PLSQL, Nginx, SOAP API, REST API, GraphQL, Oracle, MySql, Angular,  | https://www.linkedin.com/in/collins-onyetube-30232310b/ https://github.com/collins169 | https://twitter.com/kosi_collins |
