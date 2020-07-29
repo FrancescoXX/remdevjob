@@ -40,4 +40,5 @@
 | Dalhatu Njidda | dalsdnjidda@gmail.com | PHP, Laravel, Javascript, Vue.js, SQL, HTML, CSS | https://dalhatu.com | https://twitter.com/dals_njidda |
 | Onyetube Collins Kosisochukwu  | kosicollins169@gmail.com  | HTML, CSS, JavaScript, PHP, NodeJS, JAVA, Python, C#, PLSQL, Nginx, SOAP API, REST API, GraphQL, Oracle, MySql, Angular,  | https://www.linkedin.com/in/collins-onyetube-30232310b/ https://github.com/collins169 | https://twitter.com/kosi_collins |
 | Babatunde Joseph Adeniran  | babatundea15@gmail.com  | HTML, CSS, JavaScript, React, NodeJS, PostgreSQL, Python, REST API,  | https://www.linkedin.com/in/babatundeadeniran// https://github.com/TUNESHMAN | https://twitter.com/Tuneshman |
+| Egbeyemi Oladayo  | dasther@outlook.com  | HTML, CSS, JavaScript, ionic, MEAN, MEVN, AWS, REST API, Docker, Agile Development, MeteorJS  | https://www.linkedin.com/in/iamserver/ https://github.com/iamserver | https://twitter.com/iamserverr |
 | Veeresh | veerreshr@gmail.com | JavaScript, React ,node , flutter, python | https://www.linkedin.com/in/veeresh-raavipaati-b26a2419b |veerreshr.github.io/portfolio | https://twitter.com/corpuscle18 |
