@@ -43,3 +43,4 @@
 | Egbeyemi Oladayo  | dasther@outlook.com  | HTML, CSS, JavaScript, ionic, MEAN, MEVN, AWS, REST API, Docker, Agile Development, MeteorJS  | https://www.linkedin.com/in/iamserver/ https://github.com/iamserver | https://twitter.com/iamserverr |
 | Veeresh | veerreshr@gmail.com | JavaScript, React ,node , flutter, python | https://www.linkedin.com/in/veeresh-raavipaati-b26a2419b |veerreshr.github.io/portfolio | https://twitter.com/corpuscle18 |
 |Ernest Nnamdi| ernestnamdi6@gmail.com| HTML, CSS, Javascript, NodeJS, MongoDB, Express| https://www.linkedin.com/in/ernest-molokwu-905251a9/ / https://www.github.com/ernesto-tha-great | https://www.twitter.com/ernestelijah|
+|Samuel Okediji| samuelolaideokediji@gmail.com| Python, NodeJs, Bash, Distributed Systems, Kubernetes, AWS, Docker, Terraform, Ansible, Linux| https://www.linkedin.com/in/samuelolaideokediji/ / https://www.github.com/samuelokediji | https://www.twitter.com/samcenafcb|
